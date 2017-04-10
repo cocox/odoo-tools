@@ -41,7 +41,7 @@ var _t = core._t;
           // "dismissOnScroll": true,
           // "dismissOnTimeout": true,
           "content": {
-            "message": _t("We use cookies."),
+            "message": _t("We use cookies for your best experience on our website"),
             "dismiss": _t("Got it"),
             "link": _t("More Info"),
             "href": "/cookies"

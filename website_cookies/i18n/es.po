@@ -35,5 +35,5 @@ msgstr "Mas Info"
 #. openerp-web
 #: code:addons/website_cookies/static/src/js/website_cookies.js:44
 #, python-format
-msgid "We use cookies."
+msgid "We use cookies for your best experience on our website"
 msgstr "Utilizamos cookies propias y de terceros para ofrecerte una mejor experiencia y servicio, de acuerdo a tus hábitos de navegación"
